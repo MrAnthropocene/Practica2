@@ -10,6 +10,6 @@ Using Flexbox, the columns were positioned ensuring that the design adjusts to s
 Finally, a design style was applied to the page.
 
 
-Screenshot:
+### Screenshot:
 ![image](https://github.com/user-attachments/assets/6f6dfb14-ec3f-4e06-a124-5a70853cf86a)
 
