@@ -1,0 +1,68 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.container{
+
+}
+.header-primary{
+    background-color:rgb(240, 240, 74);
+    height: 300px;
+
+    
+}
+.title{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    text-align: center;
+    
+}
+.libros-container{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+
+}  
+.text-container{
+    width: 100%;
+    text-align:left;
+    text-rendering: auto;
+    
+}
+.product-pricing{
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    text-align: left;
+    flex-shrink:inherit;
+}
+
+.imgAddWishList-container{
+    cursor: pointer;
+}
+.description-container{
+    position: relative;
+    top: 20%;
+}
+.boton{
+    width: 200%;
+    height: 120%;
+    background-color: rgb(240, 240, 74);
+    color: blueviolet;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    -ms-flex-align: end;    
+}
+
+.addCar-container{
+    position: relative;
+    top: 10%;
+    
+}
+
+
