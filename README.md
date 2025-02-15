@@ -11,4 +11,5 @@ Finally, a design style was applied to the page.
 
 
 Screenshot:
-![image](https://github.com/user-attachments/assets/a82d663e-a4e9-4039-9e31-ec17373ad7e3)
+![image](https://github.com/user-attachments/assets/6f6dfb14-ec3f-4e06-a124-5a70853cf86a)
+
